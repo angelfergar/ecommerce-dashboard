@@ -91,7 +91,7 @@ El dashboard interactivo se creó en Google Sheets, usando datos conectados dire
 * Ventas totales: £8.9M
 * Average Order Value: £374
 * Frecuencia de compra: 1.62 pedidos por cliente.
-* 
+  
 **Devoluciones**
 * 19.7% de unidades devueltas, pero solo constituyen el 6.86% del valor total.
 * El Reino Unido concentra la mayoría de devoluciones (£540k).
