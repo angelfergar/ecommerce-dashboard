@@ -1,6 +1,6 @@
 SELECT 
     c.Country,
-    FORMAT_DATETIME('%Y-%m', OrderDate) AS Month,
+    DATE(EXTRACT(YEAR FROM OrderDate), EXTRACT(MONTH FROM OrderDate), 1) AS Month,
     ROUND(SUM(orp.Quantity * orp.UnitPrice), 2) AS MonthlySales,
     ROUND(
         SUM(orp.Quantity * orp.UnitPrice) /
