@@ -133,6 +133,6 @@ cd ecommerce-dashboard
 ## 🤝 **6. Contribución**
 ¡Sugerencias y mejoras son bienvenidas! 🚀
 
-📌** Desarrollado por:** Ángel Fernández
+📌**Desarrollado por:** Ángel Fernández  
 ✉️ **Contacto:** anfernagar@gmail.com
 
