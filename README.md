@@ -51,10 +51,10 @@ El flujo de trabajo combina:
 ---
 ## 📊 **1. Preparación de Datos (BigQuery)**
 
-Las queries en la carpeta /queries incluyen:
-✅ Limpieza de RawData → Creación de CleanedData con fechas en formato correcto.
-✅ Tablas Dimensionales → Clientes, Productos y Pedidos.
-✅ Consultas de análisis → Ventas por país, clientes, productos más vendidos y devoluciones.
+Las queries en la carpeta /queries incluyen:  
+✅ Limpieza de RawData → Creación de CleanedData con fechas en formato correcto.  
+✅ Tablas Dimensionales → Clientes, Productos y Pedidos.  
+✅ Consultas de análisis → Ventas por país, clientes, productos más vendidos y devoluciones.  
 
 📌 Esto permite una base sólida para análisis posteriores y vinculación directa con Google Sheets.
 
@@ -65,15 +65,15 @@ El dashboard interactivo se creó en Google Sheets, usando datos conectados dire
 * Tablas dinámicas para segmentar ventas, devoluciones y clientes.
 * Fórmulas avanzadas (ej. cálculos de ratios, KPIs financieros y de clientes).
 
-📌 El dashboard final: dashboards/eCommerce_Dashboard.xlsx
+📌 El dashboard final: ['dashboard/eCommerce_Dashboard.xlsx'](dashboard/eCommerce_Dashboard.xlsx)
 
 ### 🔎 **¿Qué contiene este dashboard?**
 
-✅ KPIs Clave de Negocio: Ventas totales, Net Revenue, Average Order Value, clientes únicos...
-✅ Análisis temporal: Crecimiento anual y mensual de ventas.
-✅ Clientes top: Identificación de clientes de alto valor.
-✅ Análisis de devoluciones: Net Revenue vs Return Cost, información sobre devoluciones en los países y productos con más ventas.
-✅ Filtros interactivos: Se pueden filtrar los resultados por país y fecha.
+✅ KPIs Clave de Negocio: Ventas totales, Net Revenue, Average Order Value, clientes únicos...  
+✅ Análisis temporal: Crecimiento anual y mensual de ventas.  
+✅ Clientes top: Identificación de clientes de alto valor.  
+✅ Análisis de devoluciones: Net Revenue vs Return Cost, información sobre devoluciones en los países y productos con más ventas.  
+✅ Filtros interactivos: Se pueden filtrar los resultados por país y fecha.  
 
 ### 📷 **Dashboard Previews**
 #### 🔹 **Dashboard**
