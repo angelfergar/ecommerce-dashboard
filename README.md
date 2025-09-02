@@ -77,13 +77,13 @@ El dashboard interactivo se creó en Google Sheets, usando datos conectados dire
 
 ### 📷 **Dashboard Previews**
 #### 🔹 **Dashboard**
-<img src="dashboards/images/Dashboard_Complete.png" alt="Dashboard" width="500"/>
+<img src="dashboard/images/Dashboard_Complete.png" alt="Dashboard" width="500"/>
 
 #### 🔹 **Último cuatrimestre de Reino Unido**
-<img src="dashboards/images/dashboard_UK_holidays.png" alt="Dashboard" width="500"/>
+<img src="dashboard/images/dashboard_UK_holidays.png" alt="Dashboard" width="500"/>
 
 #### 🔹 **Francia en Noviembre**
-<img src="dashboards/images/dashboard_France_november.png" alt="Dashboard" width="500"/>
+<img src="dashboard/images/dashboard_France_november.png" alt="Dashboard" width="500"/>
 
 ---
 ## 📈 **3. Insights Clave del Análisis**
